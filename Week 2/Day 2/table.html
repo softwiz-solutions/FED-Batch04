@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Tables</h1>
+    <table border="1">
+      <tr>
+        <th>Student Name</th>
+        <th>Roll No.</th>
+        <th>Adress</th>
+      </tr>
+      <tr>
+        <td>Ali</td>
+        <td>123</td>
+        <td>ABc.....</td>
+      </tr>
+      <tr>
+        <td>Ahmad</td>
+        <td>123</td>
+        <td>st#4,jkfj fdjskf jdsklf jsd</td>
+      </tr>
+    </table>
+
+    <table>
+      <tr>
+        <th></th>
+        <th scope="col">Saturday</th>
+        <th scope="col">Sunday</th>
+      </tr>
+      <tr>
+        <th scope="row">Ticket Sold:</th>
+        <td>120</td>
+        <td>135</td>
+      </tr>
+      <tr>
+        <th scope="row">Total Sales:</th>
+        <td>$600</td>
+        <td>$675</td>
+      </tr>
+    </table>
+    <hr />
+    <h1>Col Span</h1>
+    <table border="1">
+      <tr>
+        <td></td>
+        <td>9 am</td>
+        <td>10 am</td>
+        <td>11 am</td>
+        <td>12 am</td>
+      </tr>
+      <tr>
+        <td>Monday</td>
+        <td colspan="2">Geography</td>
+        <td>Math</td>
+        <td>Arts</td>
+      </tr>
+      <tr>
+        <td>Tuesday</td>
+        <td colspan="3">gym</td>
+        <td>home ec</td>
+      </tr>
+      <tr>
+        <td>Wednesday</td>
+        <td colspan="2">English</td>
+        <td colspan="2">Urdu</td>
+      </tr>
+    </table>
+    <hr />
+    <h1>Row Span</h1>
+    <table border="1">
+      <tr>
+        <td></td>
+        <td>Abc</td>
+        <td>BBC</td>
+        <td>CNN</td>
+      </tr>
+      <tr>
+        <td>6pm - 7pm</td>
+        <td rowspan="3" colspan="2">Movie</td>
+        <!-- <td>Movies</td> -->
+        <td rowspan="2">News</td>
+      </tr>
+      <tr>
+        <td>7pm - 8 pm</td>
+
+        <!-- <td>movie</td> -->
+        <!-- <td>news</td> -->
+      </tr>
+      <tr>
+        <td>8pm - 9 pm</td>
+        <!-- <td>movies</td> -->
+        <!-- <td>Movies</td> -->
+        <td>current affairs</td>
+      </tr>
+    </table>
+
+    <h1>Table Heading body foot</h1>
+    <table
+      width="400"
+      border="1"
+      cellpadding="12"
+      cellspacing="10"
+      bgcolor="yellow"
+    >
+      <thead>
+        <tr>
+          <th bgcolor="pink">Date</th>
+          <th bgcolor="orange">Income</th>
+          <th bgcolor="green">Expenditure</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1st January</th>
+          <td>250</td>
+          <td>36</td>
+        </tr>
+        <tr>
+          <th>2nd January</th>
+          <td>285</td>
+          <td>48</td>
+        </tr>
+        <!-- additional rows as above -->
+        <tr>
+          <th>31st January</th>
+          <td>129</td>
+          <td>64</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td></td>
+          <td>7824</td>
+          <td>1241</td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>
