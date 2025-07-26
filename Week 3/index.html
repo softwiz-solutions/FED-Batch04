@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Week 3 Day 1</title>
+  </head>
+  <body>
+    <h1>Personal Details Form</h1>
+    <form action="http://www.vote-backend.com" method="get">
+      <fieldset>
+        <legend>Personal Details:</legend>
+        <p>
+          <label for="username"> User Name: </label>
+
+          <input
+            type="text"
+            name="username"
+            size="15"
+            maxlength="4"
+            id="username"
+            required
+            
+          />
+        </p>
+        <p>
+          <label for="email"> Email: </label>
+
+          <input type="email" name="email" size="15" id="email" required />
+        </p>
+        <p>
+          <label for="website"> Your website: </label>
+
+          <input type="url" name="website" size="15" id="website"  />
+        </p>
+        <p>
+          Password:
+          <input type="password" name="password" size="15" required />
+        </p>
+        <p>
+          Phone #:
+          <input type="number" name="phone" size="15" />
+        </p>
+      </fieldset>
+
+      <p>
+        Fav color #:
+        <input type="color" name="color" size="15" />
+      </p>
+      <p>
+        DOB #:
+        <input type="date" name="dob" size="15" />
+      </p>
+      <!-- <p>
+    DOB #:
+        <input type="datetime" name="password" size="15"   />
+      </p> -->
+      <p>
+        Upload File #:
+        <input type="file" name="file" size="15" />
+      </p>
+      <p>
+        Rate Us:
+        <input type="range" name="rating" size="15" />
+      </p>
+
+      <p>
+        Enter your thouhgs
+        <textarea name="comments" id="" rows="15" cols="50"> </textarea>
+      </p>
+
+      <p>
+        Gender
+        <input type="radio" name="gender" value="" id="male" />
+        <label for="male">Male</label>
+        <input type="radio" name="gender" value="female" id="female" />
+        <label for="male"> Female</label>
+      </p>
+      <p>
+        Are you satifised with our service
+        <input type="radio" name="service" value="yes" /> Yes
+        <input type="radio" name="service" value="no" /> No
+        <input type="radio" name="service" value="not" /> Not Confirment
+      </p>
+
+      <p>
+        What's your fav city
+        <input type="checkbox" name="city" value="fsd" />FSD
+        <input type="checkbox" name="city" value="lhr" />LHR
+        <input type="checkbox" name="city" value="isb" />ISB
+        <input type="checkbox" name="city" value="psh" />PSH
+        <input type="checkbox" name="city" value="krc" />KRC
+      </p>
+
+      <p>
+        What's your city
+        <select name="myCity" id="" multiple="multiple">
+          <option value="">Choose your city</option>
+          <option value="fsd">FSD</option>
+          <option value="lhr">LHR</option>
+          <option value="krc">KRC</option>
+        </select>
+      </p>
+
+      <!-- <input
+        type="image"
+        name="submit"
+        id=""
+       
+        src="https://t4.ftcdn.net/jpg/00/28/27/95/360_F_28279558_SqNXoZWsQLfWYVxyKe9hVzZ49dJtKLsc.jpg"
+        height="200"
+        width="200"
+      /> -->
+
+      <input type="hidden" name="source" value="Personal Details Form" />
+      <button>
+        <img
+          src="https://static.vecteezy.com/system/resources/previews/047/474/244/non_2x/submit-icon-send-icon-free-vector.jpg"
+          alt="submit button"
+          height="20"
+          width="20"
+        />
+        Submit
+      </button>
+    </form>
+  </body>
+</html>
+
+
