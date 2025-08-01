@@ -1,0 +1,21 @@
+Assignment # 03
+
+Dear Students of FED B#04,
+
+HTML Assignment: Complete HTML.
+
+Assignment Overview
+
+1. The main purpose of assignment is to use the whole HTML, Create the exact same pages.
+2. After submitting the registration form user should redirect to thank you page.
+
+Note: Create the folder structure by your own. The name of folder and file should be related to the data. Convert the assignment folder into zip then upload it on google form.
+
+
+Submit the assignment on the given link
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+
+Deadline: 01-08-2024 12:00AM. (Friday)
+
+
