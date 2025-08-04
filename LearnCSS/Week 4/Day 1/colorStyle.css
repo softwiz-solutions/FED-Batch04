@@ -1,0 +1,32 @@
+/* admissionform (issue)
+admission_form (snake case)for class or id name
+admissionForm (camel case) for class or id name
+AdmissionForm (passcal case)for class or id name
+admission-form (kebab case) for file name */
+
+
+h1{
+
+    /* color: rgba(200, 225, 36, 0.841); */
+color:#000
+
+;
+}
+
+
+/* rgb , rgba */
+/*
+red: 0-255  
+green: 0-255
+blue: 0-255
+
+*/
+
+/* hex
+red: 0 - 15 , 0 to 9, 10 A  , 11 b, 12 C, 13 D, 14 E, 15 F
+green: 0 - 15 , 0 to 9, 10 A  , 11 b, 12 C, 13 D, 14 E, 15 F
+blue: 0 - 15 , 0 to 9, 10 A  , 11 b, 12 C, 13 D, 14 E, 15 F
+
+*/
+
+

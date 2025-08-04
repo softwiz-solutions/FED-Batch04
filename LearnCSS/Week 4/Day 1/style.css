@@ -1,0 +1,74 @@
+/* * {
+  color: red;
+} */
+
+body{
+  color: pink;
+  font-family: monospace;
+}
+
+/* p,
+h1,h2 {
+  color: purple !important;
+} */
+
+/* h1{
+    color: purple;
+} */
+
+/* .demo {
+  background-color: bisque;
+} */
+
+/* p.para {
+  background-color: red;
+  color: white;
+} */
+
+/* id selector */
+/* #main-heading {
+  background-color: yellow;
+} */
+/* class selector */
+/* .para {
+  background-color: aqua;
+} */
+
+/* h1 {
+  background-color: orange;
+} */
+/* 
+1. id
+2. class
+3. element name
+*/
+
+/* Child Selector */
+/* li > a {
+  color: green;
+} */
+
+/* div {
+  background-color: lightcyan;
+} */
+/* child selector */
+/* #section1 > p {
+  color: orange;
+  text-transform: uppercase;
+} */
+
+/* li a {
+  color: green;
+} */
+
+/* h1 ~ p {
+  background-color: purple;
+} */
+
+/* div {
+  color: orange;
+  font-family: 'Times New Roman', Times, serif;
+} */
+/* div>p{
+    color: blue;
+} */
