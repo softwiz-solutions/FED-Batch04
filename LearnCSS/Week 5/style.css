@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background-color: red;
+  /* width: 600px; */
+  width: 400px;
+  /* width: 400+40+40=460 */
+  padding: 40px;
+  margin: 10px;
+  display: inline-block;
+  /* height: 100px; */
+
+  /* min-width: 300px;
+  max-width:600px; */
+  /* width: 300px; */
+  /* height: 300px; */
+  /* border-width: 100px; */
+  /* border-width: 20px 5px 10px 5px; */
+  /* border-width:top right bottom left */
+  /* border-width: 20px 50px; */
+  /* border-width:top-bottom left-right */
+  /* border-width: 20px 50px 1px; */
+  /* border-width:top left-right bottom */
+  /* border-style: none; */
+  /* border-color: yellow; */
+  border: 10px solid black;
+  /* border: 10px solid black; */
+  /* padding: 10px; */
+  /* border-left:5px dashed green ;
+  border-bottom: 10px dotted yellow; */
+  /* border: width (1) style color */
+  /* margin: 0px auto; */
+  /* padding:90px; */
+  text-align: center;
+}
+div > p {
+  /* margin: 50px; */
+  /* overflow: scroll; */
+  /* height: 100px; */
+  /* min-height: 100px; */
+  /* max-height: 500px; */
+  /* max-height: 300px; */
+  /* width: 75%; */
+  /* font-size: 16px; */
+  /* color: white; */
+  /* height: 75%; */
+  /* background-color: blue; */
+}
+
+/* button {
+  background-color: blue;
+  color: white;
+  font-size: 36px;
+  border: 5px solid red;
+  padding: 10px 20px;
+  border-radius: 50px;
+  
+  margin: 20px auto 10px auto;
+} */

@@ -1,0 +1,25 @@
+Assignment # 04
+
+Dear Students of FED B#04,
+
+ CSS Assignment: Colors and Text.
+
+Assignment Overview
+
+1. The purpose  of this assignment is to use proper html and css.
+
+Requirements:
+
+1. Create the exact design as in image,
+2. Also add hover effect on link, button, input field. 
+
+Note: Create the folder structure by your own. The name of folder and file should be related to the data. Convert the assignment folder into zip then upload it on google form.
+
+
+Submit the assignment on the given link
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+
+Deadline: 22-08-2024 12:00AM. (Friday)
+
+
