@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+  /* margin: 0;
+  padding: 0; */
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* li {
+  background-color: pink;
+  margin: 10px;
+  display: inline;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+.about-link:hover {
+  text-decoration: dotted;
+  text-decoration-line: underline;
+  text-decoration-color: red;
+} */
+
+/* .top{
+    background-color: red;
+    display: block;
+    text-align: center;
+} */
+.content {
+  display: none;
+  text-align: center;
+}
+
+.cards {
+  background-color: orange;
+  margin: 5px;
+  padding: 10px;
+  /* border-radius: 5px; */
+  width: 200px;
+  display: inline-block;
+  box-shadow: 5px 5px 10px rgba(7, 7, 7, 0.2);
+  /* border-radius: 100px 50px 10px 90px; */
+  /* border-radius: top-left, top-right, bottom-left, bottom-right; */
+  border-radius: 40px 5px 90px;
+}
+.cards > button {
+  background-color: pink;
+  color: white;
+  border-radius: 10px;
+  border: none;
+}
+
+.cards > button:hover {
+  background-color: white;
+  color: orange;
+  border: 1px solid orange;
+  cursor: pointer;
+  box-shadow: 1px 1px 10px rgba(198, 10, 10, 0.2);
+}
+.cards:hover {
+  background-color: white;
+  color: orange;
+  border: 1px solid orange;
+  cursor: pointer;
+}
+
+.coming-soon,
+.card2 {
+  /* display: none; */
+  /* visibility: visible; */
+}
+ul {
+  /* list-style-image: url("/assets/images/list.png"); */
+  /* list-style-type: circle;
+  list-style-position: inside; */
+  list-style: inside circle;
+}
+
+table {
+  width: 600px;
+  text-align: center;
+  /* empty-cells: ; */
+  border-spacing: 20px;
+}
+th {
+  background-color: #111111;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+th,
+td {
+  padding: 7px 10px 10px 10px;
+}
+th {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 90%;
+  border-bottom: 2px solid #111111;
+  border-top: 1px solid #999;
+  text-align: left;
+}
+/* tr.even {
+  background-color: #efefef;
+} */
+
+tr:nth-child(even) {
+  background-color: #efefef;
+}
+/* tr:nth-child(odd) {
+  background-color: #f80b0b;
+} */
+tr:hover {
+  background-color: #c3e6e5;
+}
+.money {
+  text-align: right;
+}
+
+
