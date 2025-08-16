@@ -1,0 +1,31 @@
+Assignment # 05
+
+Dear Students of FED B#04,
+
+ CSS Assignment: Boxes , list , table, forms.
+
+Assignment Overview
+
+1. The purpose  of this assignment is to use proper html and css.
+
+Requirements:
+
+1. Create the exact design as in image,
+2. Also add hover effect on link, button, input field. 
+
+
+*Important:*
+
+Table live link: https://preview.colorlib.com/theme/bootstrap/table-06/?_gl=1*17zbnqg*_ga*MTUwNTUyMjk4MS4xNzU1MDYzMTQ0*_ga_SEKJ4E9T4H*czE3NTUwNjMxNDUkbzEkZzEkdDE3NTUwNjMxODYkajE5JGwwJGgwJGRzd0ZVaWVfNk1uRER0T19Ld1VYb1lESzJCVlY3QVVLeFR3
+
+
+Note: Create the folder structure by your own. The name of folder and file should be related to the data. Convert the assignment folder into zip then upload it on google form.
+
+
+Submit the assignment on the given link
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+
+Deadline: 15-08-2024 12:00AM. (Friday)
+
+
