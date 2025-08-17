@@ -26,8 +26,18 @@ p {
   background-color: green;
 }
 
+/* .p1,.p2{
+  float: left;
+} */
 p {
   float: left;
-  width: 300px;
+  width: 60%;
   padding: 10px;
 }
+
+.clear{
+  clear: left;
+}
+/* .full-width{
+  width: 100%
+} */
