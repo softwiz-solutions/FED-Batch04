@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.car-image {
+  /* display: block; */
+  height: 50px;
+  width: 50px;
+  border-radius: 30px;
+  /* margin: 0 auto; */
+  /* float: right; */
+}
+.container {
+  background-color: orange;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  /* text-align: center; */
+}
+.card-wrapper {
+  display: flex;
+}
+
+.hero-section {
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdIe37t-Pej9f7MEf41fw4WB04jSaIfnD0Q&sg"); */
+  /* background-image: url("../assest/car.jpg"); */
+  /* background: linear-gradient(to right,red,blue); */
+  background: #7b4397; 
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #dc2430,
+    #7b4397
+  ); 
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #dc2430,
+    #7b4397
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  height: 100vh;
+  /* background-color: orange; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.article-image{
+    height: 200px;
+    width: 200px;
+}
+

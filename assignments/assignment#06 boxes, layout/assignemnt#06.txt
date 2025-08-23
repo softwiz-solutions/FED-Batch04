@@ -1,0 +1,38 @@
+Assignment # 06
+
+
+
+Dear Students of FED B#04,
+
+CSS Assignment: Boxes , Layout.
+
+
+Assignment Overview
+1. The purpose  of this assignment is to use proper html and css.
+
+
+Design:
+Website: https://freebw.com/templates/royate/
+
+Create only the below page:
+1.https://freebw.com/templates/royate/index.html
+2.https://freebw.com/templates/royate/menu.html
+3.https://freebw.com/templates/royate/blog-masonry.html
+
+
+Requirements:
+1. Create the exact design as in website.
+2. Use images as in the website
+3. Also add hover effect on link, button, input field. 
+
+
+Note: Create the folder structure by your own. The name of folder and file should be related to the data. Convert the assignment folder into zip then upload it on google form.
+
+
+Submit the assignment on the given link
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+
+Deadline: 22-08-2024 12:00AM. (Friday)
+
+
