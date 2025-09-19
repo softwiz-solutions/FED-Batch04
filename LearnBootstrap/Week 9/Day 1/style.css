@@ -1,0 +1,54 @@
+.header {
+  background-color: red;
+  padding: 15px;
+}
+
+.header h1 {
+  background-color: purple;
+  padding: 12px;
+}
+
+.container {
+  background-color: orange;
+  padding: 12px;
+  display: flex;
+  gap: 20px;
+}
+.card {
+  min-height: 150px;
+  width: 250px;
+}
+
+.card1 {
+  background-color: red;
+}
+.card2 {
+  background-color: blue;
+}
+.card3 {
+  background-color: yellow;
+}
+.card4 {
+  background-color: aqua;
+}
+
+/* @media (max-width: 700px) and (min-width: 600px) {
+  .header {
+    background-color: green;
+  }
+} */
+
+/* @media (max-width: 1024px) {
+  .container {
+    flex-direction: column;
+  }
+} */
+
+@media (max-width: 500px) {
+      .container {
+    flex-direction: column;
+  }
+  .header {
+    background-color: orange;
+  }
+}
