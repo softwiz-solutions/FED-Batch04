@@ -1,0 +1,17 @@
+Dear Students,
+
+
+Assignment #07
+
+Create these three layouts in one page, 
+
+Topic: Bootstrap Grid System
+
+Note: also create the surge link, I have added surge link input field in google field, you can't upload your assignment without surge
+
+
+Submit the assignment on the given link
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+
+Deadline: 25-09-2024 12:00AM. (Thursday)
