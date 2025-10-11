@@ -1,8 +1,3 @@
-Got it 👍 — here’s the **proper `.md` formatted version** (you can directly copy–paste this into GitHub as `intro-to-javascript.md`).
-Everything is formatted with correct Markdown syntax — headers, lists, code blocks, and tables.
-
----
-
 # 🌟 Introduction to JavaScript
 
 Welcome to the world of **Programming** and **JavaScript**!
