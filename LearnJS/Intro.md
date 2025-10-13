@@ -27,7 +27,7 @@ Programming languages are mainly divided into two types:
 
 These are **closer to machine code** (binary) and hard for humans to read.
 
-* Examples: Assembly language, Machine code
+* Examples: Assembly language, Machine code (Machine Langauge)
 * Used for: Writing code for hardware devices, system software, etc.
 
 #### 💬 Example
