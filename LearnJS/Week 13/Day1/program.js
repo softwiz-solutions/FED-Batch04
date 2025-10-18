@@ -45,11 +45,11 @@
 
 // write a js program, to store the name of user and his age.
 
-var userName = "Shehraz";
-var userAge = 17;
+// var userName = "Shehraz";
+// var userAge = 17;
 
 
-console.log("My name is", userName, "my age is", userAge);
+// console.log("My name is", userName, "my age is", userAge);
 
 
 
@@ -65,4 +65,6 @@ console.log("My name is", userName, "my age is", userAge);
 
 // var isHafiz=false
 // var passed=true
+// var isPresent=false
+
 
