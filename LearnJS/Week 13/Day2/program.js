@@ -90,8 +90,16 @@ var x = 1;
 // var result = ++x - x-- + x++ + ++x;
 // console.log("result", result);
 
-var x = 1;
+// var x = 1;
 
-var result = ++x + --x + x++ - x-- + ++x + --x;
-console.log("reult", result);
-console.log("x", x);
+// var result = ++x + --x + x++ - x-- + ++x + --x;
+// console.log("reult", result);
+// console.log("x", x);
+
+// 2. Comparison Operator (==, > , < , >= , <= , !=)
+var x = 2;
+var y = 3;
+// console.log("=", y > x);
+// console.log("=", y < x);
+
+// console.log("greater or equal", x != y);
