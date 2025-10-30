@@ -1,0 +1,44 @@
+Dear Students,
+
+Assignment #10
+
+Write the JS programs.
+
+Topic: Variables, Arithmetic,Conditional & Logical Operators
+
+Programs (Total: 15)
+
+1. Write a JS program to take input from the user for their name and age, then display them on the console.
+
+2. Write a JS program to take input from the user for a student’s name, roll number, and grade, and print them.
+
+3. Write a JS program to take input from the user and declare variables of all basic data types: string, number, boolean, null, and undefined. Display their values and types.
+
+4. Write a JS program to show an example of a valid and invalid variable name (just as comments).
+
+5. Write a JS program to take input from the user for two numbers, add them, and display the result.
+
+6. Write a JS program to take input from the user for two numbers, multiply them, and display the product.
+
+7. Write a JS program to take input from the user for two numbers, divide them, and show the quotient and remainder.
+
+8. Write a JS program to take input from the user for the length and breadth of a rectangle, then calculate and display its area.
+
+9. Write a JS program to take input from the user for a number and calculate its square.
+
+10. Write a JS program to take input from the user for marks of 5 subjects, then calculate the total and average.
+
+11. Write a JS program to take input from the user for age and check whether the person is eligible to vote (age ≥ 18) using logical operators.
+
+12. Write a JS program to take input from the user for a number and check whether it is positive, even, and less than 100 using logical operators.
+
+13. Write a JS program to take input from the user for three numbers and check whether all are equal or not using logical operators.
+
+14. Write a JS program to take input from the user for temperature and check whether it is within the comfortable range (20–30°C) using logical operators.
+
+15. Write a JS program to take input from the user for marks and check whether the student has passed (marks ≥ 40 and ≤ 100) using logical operators.
+
+Submit the assignment on the given link:
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+Deadline: 30-10-2025, 12:00 AM (Thursday)
