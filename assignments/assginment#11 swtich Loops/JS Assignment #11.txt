@@ -1,0 +1,51 @@
+Dear Students,
+
+Assignment #11
+
+Write the JS programs.
+
+Topic: Switch and loops.
+
+Programs (Total: 15)
+1. Write a JS program to take input from the user for their name and age, then display them on the console.
+
+2. Print numbers from 1 to 100 using a for loop.
+
+3. Print even numbers from 1 to 50 using a while loop.
+
+4. Print the multiplication table of any number entered by the user (e.g., 5 × 1 to 5 × 10).
+
+5. Display the sum of numbers from 1 to 50 using a for loop.
+
+6. Keep asking the user to enter a number until they enter 0, then display the total sum of all entered numbers (use do-while).
+
+7. Write a program to reverse count from 10 to 1 using a while loop.
+
+8. Ask the user to enter a password, keep asking until they enter the correct password (do-while).
+
+9. Display the factorial of a number entered by the user (use for loop`).
+
+10. Use switch to display the day name (Mon-Sun) when the user enters a number (1-7).
+
+11. Use switch to check if a user enters a vowel (a, e, i, o, u) or consonant.
+
+12. Write a program where user enters marks, and based on the marks, print grade using switch:
+Marks Range	Grade
+90–100	A
+80–89	B
+70–79	C
+below 70	D
+
+(Hint: Convert marks to tens — switch(Math.floor(marks/10)))
+
+13. Print all numbers divisible by 5 between 1 and 100.
+
+14. Ask the user if they want to repeat the program (y/n). Loop until the user enters "n".
+
+15. Take 5 numbers from the user and print the largest one.
+
+
+Submit the assignment on the given link:
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+Deadline: 06-11-2025, 12:00 AM (Thursday)
