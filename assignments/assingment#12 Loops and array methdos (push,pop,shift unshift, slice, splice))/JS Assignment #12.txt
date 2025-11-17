@@ -1,0 +1,41 @@
+Dear Students,
+
+Assignment #12
+
+Write the JS programs.
+
+Topic: Loops , Array, and array basics methods.
+
+Programs (Total: 25)
+
+1. Print numbers from 1 to 100 using a for loop.
+2. Print even numbers from 1 to 50 using a while loop.
+3. Print odd numbers from 1 to 100 using a do-while loop.
+4. Print the multiplication table of 5 using a for loop.
+5. Print numbers from 50 to 1 using a while loop.
+6. Print the sum of numbers 1 to 20 using a for loop.
+7. Count how many numbers between 1–100 are divisible by 3 (use while loop).
+8. Print all numbers between 10 and 200 that are divisible by 10 (for loop).
+9. Print squares of numbers from 1–15 using a do-while loop.
+10. Print the factorial of a given number (example: 6) using a for loop.
+11. Create an array of 5 fruits. Add one more fruit using push() and print the result.
+12. Create a number array. Remove the last number using pop() and print the array.
+13. Use shift() to remove the first item from an array of colors. Print the result.
+14. Use unshift() to add two items at the beginning of an array of cars.
+15. Create an array of 10 numbers. Use slice() to copy the first 5 numbers.
+16. Use splice() to remove 2 elements from the middle of an array of 8 items.
+17. Use push() and pop() together to simulate a stack. (Add 3 items, remove 2.)
+18. Use unshift() and shift() together to simulate a queue. (Add 2 items, remove 1.)
+19. Insert 3 new numbers at index 2 using splice(). Print the new array.
+20. Replace 2 elements in the middle of an array using splice().
+21. Use slice() to extract the last 3 elements of an array.
+22. Create an array of student scores. Remove the lowest score using splice().
+23. Using only slice(), copy all elements except the first and last.
+24. Add numbers 1–5 into an empty array using a loop + push() only.
+25. Repeatedly use pop() inside a loop to empty an array completely.
+
+
+Submit the assignment on the given link:
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+Deadline: 20-11-2025, 12:00 AM (Thursday)
