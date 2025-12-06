@@ -1,41 +1,34 @@
 Dear Students,
 
-Assignment #12
+Assignment #14
 
 Write the JS programs.
 
-Topic: Loops , Array, and array basics methods.
+Topic: String, number methods, dates and function basics.
 
-Programs (Total: 25)
-
-1. Print numbers from 1 to 100 using a for loop.
-2. Print even numbers from 1 to 50 using a while loop.
-3. Print odd numbers from 1 to 100 using a do-while loop.
-4. Print the multiplication table of 5 using a for loop.
-5. Print numbers from 50 to 1 using a while loop.
-6. Print the sum of numbers 1 to 20 using a for loop.
-7. Count how many numbers between 1–100 are divisible by 3 (use while loop).
-8. Print all numbers between 10 and 200 that are divisible by 10 (for loop).
-9. Print squares of numbers from 1–15 using a do-while loop.
-10. Print the factorial of a given number (example: 6) using a for loop.
-11. Create an array of 5 fruits. Add one more fruit using push() and print the result.
-12. Create a number array. Remove the last number using pop() and print the array.
-13. Use shift() to remove the first item from an array of colors. Print the result.
-14. Use unshift() to add two items at the beginning of an array of cars.
-15. Create an array of 10 numbers. Use slice() to copy the first 5 numbers.
-16. Use splice() to remove 2 elements from the middle of an array of 8 items.
-17. Use push() and pop() together to simulate a stack. (Add 3 items, remove 2.)
-18. Use unshift() and shift() together to simulate a queue. (Add 2 items, remove 1.)
-19. Insert 3 new numbers at index 2 using splice(). Print the new array.
-20. Replace 2 elements in the middle of an array using splice().
-21. Use slice() to extract the last 3 elements of an array.
-22. Create an array of student scores. Remove the lowest score using splice().
-23. Using only slice(), copy all elements except the first and last.
-24. Add numbers 1–5 into an empty array using a loop + push() only.
-25. Repeatedly use pop() inside a loop to empty an array completely.
-
+Programs (Total: 20)
+1. Write a JS program to replace the first occurrence of the word "apple" with "green apple" using the replace method.
+2. Write a JS program to replace all occurrences of the word "car" with "bike" inside a paragraph using a loop and replace.
+3. Write a JS program to replace all spaces in a string with hyphens.
+4. Write a JS program to replace digits inside the string "price99" with "120".
+5. Write a JS program to generate a random number between 1 and 10 using Math.random and Math.floor.
+6. Write a JS program to pick a random fruit from an array using Math.random and Math.floor.
+7. Write a JS program to take a floating number from the user and print its ceil value using Math.ceil.
+8. Write a JS program to take a floating number from the user and print its floor value using Math.floor.
+9. Write a JS program to take a number and round it to the nearest integer using Math.round.
+10. Write a JS program to create a function that prints the sum of two numbers using parameters and arguments.
+11. Write a JS program to create a function that prints the square of a given number.
+12. Write a JS program to create a function that takes a sentence and replaces a user given word with another word.
+13. Write a JS program to print the current date and time using the Date object.
+14. Write a JS program to print the current year, month, and day separately using getFullYear, getMonth, and getDate.
+15. Write a JS program to create a date object and set its year to 2030 using setFullYear.
+16. Write a JS program to create a date object for your next birthday and print the date.
+17. Write a JS program to create an age calculator that takes the birth year and prints the age.
+18. Write a JS program to calculate and print how many days are left until 31 December of the current year.
+19. Write a JS program to create a function that returns the maximum of three numbers.
+20. Write a JS program to create a function that takes a number and returns a random number between 1 and that number.
 
 Submit the assignment on the given link:
 https://forms.gle/NVV2M4FQmKeLdGND8
 
-Deadline: 20-11-2025, 12:00 AM (Thursday)
+Deadline: 04-12-2025, 12:00 AM (Thursday)
