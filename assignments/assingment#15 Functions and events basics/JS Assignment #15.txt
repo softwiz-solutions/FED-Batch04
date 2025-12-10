@@ -1,0 +1,29 @@
+Dear Students,
+
+Assignment #15
+
+Write the JS programs.
+
+Topic: Functions complete and event basics.
+
+Programs (Total: 10)
+1. Write a JS program that creates a function which takes two numbers as parameters and returns their sum. Print the returned result.
+2. Write a JS program that creates a function that takes a user name as a parameter and returns a welcome message. Print the returned message in the console.
+3. Write a JS program that creates a function to calculate the square of a number and returns the result.
+4. Write a JS program that creates a function which takes two numbers as parameters and returns the larger number.
+5. Write a JS program that changes the text of a paragraph when a button is clicked.
+
+(Use onclick event)
+
+6. Write a JS program that changes the color of a heading when the user hovers the mouse over it.
+
+7. Write a JS program that changes an image to another image when the mouse is hovered on it and changes back when the mouse leaves it.
+8. Write a JS program that changes the background color of the page when a link is clicked.
+(Use onclick on an anchor tag)
+9. Write a JS program that increases the font size of a paragraph when the user hovers over it and resets it on mouse out.
+10. Write a JS program that calls a function on button click. The function should return a random number between 1 and 100 and display it on the console.
+
+Submit the assignment on the given link:
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+Deadline: 11-12-2025, 12:00 AM (Thursday)
