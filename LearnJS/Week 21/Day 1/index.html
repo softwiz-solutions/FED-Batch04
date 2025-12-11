@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .hide-image {
+        display: none;
+      }
+      .image {
+        height: 300;
+        width: 300;
+      }
+      .header {
+        background-color: red;
+      }
+      .yellow {
+        color: yellow;
+      }
+      .purple {
+        color: purple;
+      }
+      .orange {
+        color: orange;
+      }
+      .big{
+        font-size: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1
+      id="mainHeading"
+      class="header"
+      onClick="changeColor('mainHeading','orange')"
+    >
+      Week 21 Day 1
+    </h1>
+    <h1
+      id="mainHeading2"
+      class="header"
+      onClick="changeColor('mainHeading2','purple big ')"
+    >
+      Week 21 Day 2
+    </h1>
+
+    <!-- <img
+      id="blob-fish"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuNLUwN6CF4NJqh_muclxknJPNPFGF4_i57VcyVEfoEFBeDnlY6REfhtGJkKWdEHc89sSvdhtHVoM1XgntMRuI5BYjamkRJISNss6AA&s=10"
+      alt="blob fish"
+      onClick="hideImage()"
+    /> -->
+
+    <!-- <button onclick="addList()">Fav Books</button>
+    <div id="fav-books"></div>
+
+    <p id="slowLoris">
+      Slow lorises are a group of several species of strepsirrhine primates
+      which make up the genus Nycticebus.
+      <a href="javascript:void(0);" onClick="expandText()"
+        ><em>Click for more.</em></a
+      >
+    </p> -->
+    <form action="" onsubmit="submitForm()">
+      <!-- <div>
+        <label for="email">Email:</label>
+        <input
+          type="text"
+          name="userEmail"
+          id="email"
+          onfocus="this.style.fontSize='30px';"
+          onblur="this.style.fontSize='12px';"
+        />
+      </div>
+      <div>
+        <label for="email">Password:</label>
+        <input
+          type="password"
+          name="userPassword"
+          id="password"
+          onfocus="this.style.fontSize='30px';"
+          onblur="this.style.fontSize='12px';"
+        />
+      </div> -->
+      <div>
+        <label for="zip">Zip Code:</label>
+        <input type="text" name="userZipCode" id="zip" onblur="getCityName()" />
+      </div>
+      <div>
+        <label for="city">City Name:</label>
+        <input type="text" name="userCityName" id="city" readonly />
+      </div>
+      <button>Submit</button>
+    </form>
+    <script src="program.js"></script>
+  </body>
+</html>
