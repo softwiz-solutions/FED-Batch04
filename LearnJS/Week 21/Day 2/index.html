@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8" /><meta
+    content="width=device-width,initial-scale=1"
+    name="viewport"
+  />
+  <title>Document</title><style>
+    table {
+      border: 13px;
+    }
+  </style>
+  
+  <h1>Week 21 Day 2</h1>
+  <div style="background-color: red" id="section1">
+
+    <p>
+      Para 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. In sed
+      officiis quia aliquam perspiciatis ad quaerat mollitia corrupti magni eum,
+      harum dolor blanditiis recusandae! Quam reprehenderit harum ipsa placeat
+      corrupti.
+    </p>
+
+    <p>
+      Para 2 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam sunt
+      eius animi dicta tenetur dolorum, nulla in! Iste quas omnis temporibus
+      itaque harum id dignissimos illo! Vel nam iure quaerat?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae quae
+      commodi neque ea? Culpa optio pariatur eligendi quidem debitis
+      consectetur, quaerat dolore reiciendis laudantium? Delectus ut sequi
+      incidunt et dolor!
+    </p>
+  </div>
+
+  <button onclick="stylingDivChilds()">Update</button>
+  <div style="background-color: #ff0">
+    <p>
+      Para 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. In sed
+      officiis quia aliquam perspiciatis ad quaerat mollitia corrupti magni eum,
+      harum dolor blanditiis recusandae! Quam reprehenderit harum ipsa placeat
+      corrupti.
+    </p>
+    <p>
+      Para 2 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam sunt
+      eius animi dicta tenetur dolorum, nulla in! Iste quas omnis temporibus
+      itaque harum id dignissimos illo! Vel nam iure quaerat?
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae quae
+      commodi neque ea? Culpa optio pariatur eligendi quidem debitis
+      consectetur, quaerat dolore reiciendis laudantium? Delectus ut sequi
+      incidunt et dolor!
+    </p>
+  </div>
+  <h1>Student Details</h1>
+  <table border="1px" id="student-table">
+    <tr>
+      <td>Name</td>
+      <td>RollNo</td>
+      <td>
+        Class
+        <tr>
+          <td>Ali</td>
+          <td>123</td>
+          <td>
+            12th
+            <tr>
+              <td>Ahmad</td>
+              <td>23123</td>
+              <td>12th</td>
+            </tr>
+          </td>
+        </tr>
+      </td>
+    </tr>
+  </table>
+  <button onclick='changeCellsColor("student-table","orange")'>
+    Change Cell color of Studnet Table
+  </button>
+  <h1>Emplye Details</h1>
+  <table border="1px" id="employee-table">
+    <tr>
+      <td>Name</td>
+      <td>Employee No</td>
+      <td>
+        Department
+        <tr>
+          <td>Ali</td>
+          <td>123</td>
+          <td>
+            IT
+            <tr>
+              <td>Ahmad</td>
+              <td>23123</td>
+              <td>HR</td>
+            </tr>
+          </td>
+        </tr>
+      </td>
+    </tr>
+  </table>
+  <button onclick='changeCellsColor("employee-table","red")'>
+    Change Cell color of Employ Table
+  </button>
+  <script src="program.js"></script>
+</html>
