@@ -1,0 +1,69 @@
+Dear Students,
+
+Assignment #16
+
+Write the JS programs.
+
+Topic: Events, Input fields, and Basic DOM.
+
+Programs (Total: 10)
+1. Write a JS program that takes a name from an input field and displays it in a paragraph when a button is clicked.
+UI:
+One text input
+One button
+One paragraph for result
+
+2. Write a JS program that takes two numbers from input fields and shows their sum in a paragraph on button click.
+
+UI:
+Two number inputs
+One button
+One paragraph for result
+
+3.Write a JS program that changes paragraph text when a link is clicked.
+UI:
+One link
+One paragraph
+
+4. Write a JS program that clears the input field value when a button is clicked.
+UI:
+One text input
+One button
+
+5. Write a JS program that changes the color of a paragraph when the mouse is over it and resets when mouse leaves.
+UI:
+One paragraph
+
+6.Write a JS program that copies the value from an input field and displays it inside a paragraph on button click.
+UI:
+One input field
+One button
+One paragraph
+
+7.Write a JS program that changes the background color of a button when mouse is over it and restores it when mouse leaves.
+UI:
+One button
+
+8.Write a JS program that increases the font size of a paragraph when a button is clicked.
+UI:
+One button
+One paragraph
+
+9.Write a JS program that shows the length of text entered in an input field when a button is clicked.
+UI:
+One text input
+One button
+One paragraph
+
+10.Write a JS program that clears input fields and paragraph text when a link is clicked.
+UI:
+One input field
+One paragraph
+One link
+
+Note: Also upload the surge link of this assignment
+
+Submit the assignment on the given link:
+https://forms.gle/NVV2M4FQmKeLdGND8
+
+Deadline: 18-12-2025, 12:00 AM (Thursday)
