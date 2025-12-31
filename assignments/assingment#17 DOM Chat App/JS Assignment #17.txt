@@ -1,0 +1,18 @@
+Dear Students,
+
+Assignment #17
+
+Create a Chat App.
+
+Topic: DOM.
+
+Description:
+1. See the screenshots and video of assignment
+2. Assignment should contain the same UI and functionality.
+
+Note: Also upload the surge link of this assignment
+
+Submit the assignment on the given link:
+https://forms.gle/8kaSXcxx3juqUnzr8
+
+Deadline: 02-01-2026, 12:00 AM (Thursday)
