@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Week 25 Day 2</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li onclick="changeLink('/about')">About</li>
+        <li onclick="changeLink('/contact')">Contact</li>
+        <li onclick="changeLink('/services')">Services</li>
+      </ul>
+    </nav>
+
+    <h1>Day 2</h1>
+    <button onclick="changeLink('/about.html')">Change Link</button>
+    <button onclick="reload()">Reload the page</button>
+    <br />
+    <br />
+    <button onclick="openNewWindow()">Open New Window</button>
+    <button onclick="checkForPopBlocker()">checkForPopBlocker</button>
+    <br />
+    <br />
+    <button onclick="goBack()"><--</button>
+    <button onclick="goForward()">--></button>
+    <script src="program.js"></script>
+    <script src="windows.js"></script>
+  </body>
+</html>

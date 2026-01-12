@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li onclick="changeLink('/about')">About</li>
+        <li onclick="changeLink('/contact')">Contact</li>
+        <li onclick="changeLink('/services')">Services</li>
+      </ul>
+    </nav>
+    <h1>Contact</h1>
+    <p>This is the contact page.</p>
+    <button onclick="changeLink('https://www.example.com')">
+      Go to example.com
+    </button>
+    <br />
+
+    <button onclick="goBack()"><--</button>
+    <button onclick="goForward()">--></button>
+    <script src="../program.js"></script>
+  </body>
+</html>
