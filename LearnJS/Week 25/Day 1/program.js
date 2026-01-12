@@ -32,7 +32,9 @@ console.log("window hostname", window.location.hostname);
 console.log("window pathname    ", window.location.pathname);
 
 var handleLink = function () {
-  window.location.href = "/about.html#contact-section";
+
+
+  window.location.href = "/about.html#contact-section"; // you can add hostname also
 
   //   var hostname = window.location.hostname;
   //   var link = "http://" + hostname + "/about.html";
