@@ -1,4 +1,7 @@
+"use client"
+
 import Header from "@/components/Header";
+import Likes from "@/components/Likes";
 
 export default function Home() {
   const names = ["Ada Lovelace", "Grace Hopper", "Margaret Hamilton","ali"];
@@ -20,6 +23,7 @@ export default function Home() {
           return <li key={index} >{item}</li>;
         })}
       </ul>
+      <Likes/>
       {/* <Header /> */}
     </div>
   );
