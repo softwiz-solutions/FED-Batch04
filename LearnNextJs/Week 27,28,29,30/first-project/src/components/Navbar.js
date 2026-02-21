@@ -1,21 +1,28 @@
+import Link from "next/link";
+
 export default function Navbar() {
   return (
     <nav className="bg-blue-400 text-white p-4">
       <ul className="flex space-x-4">
         <li>
-          <a href="/" className="hover:text-gray-400">
+          <Link href="/" className="hover:text-gray-400">
             Home
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="/about" className="hover:text-gray-400">
+          <Link href="/about" className="hover:text-gray-400">
             About
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="/contact-us" className="hover:text-gray-400">
+          <Link href="/contact-us" className="hover:text-gray-400">
             Contact Us
-          </a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/blog" className="hover:text-gray-400">
+            Blog
+          </Link>
         </li>
       </ul>
     </nav>
