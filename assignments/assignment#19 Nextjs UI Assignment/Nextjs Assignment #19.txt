@@ -1,0 +1,20 @@
+Dear Students,
+
+Assignment #19
+
+Next.js Assignment
+Topic: Components, Props, Routes, Tailwind CSS
+
+Create the exact design of Figma design in Next.js
+
+Create only the following pages:
+1. Home Page
+2. About Us Page
+3. Contact Us Page
+
+Figma Link: https://www.figma.com/design/7payPICIwIcDHDmzaytPuF/eCommerce-Fashion-Website--Community-?node-id=0-1&t=FSiLHWmmwrrNH43k-1
+
+Submit the assignment on the given link:
+https://forms.gle/wQzYKdKQpGe1o9si9
+
+Deadline: 28-02-2026, 12:00 AM (Saturday)

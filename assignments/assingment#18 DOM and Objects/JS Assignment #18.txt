@@ -1,0 +1,115 @@
+Dear Students,
+
+Assignment #18
+
+JavaScript Assignment
+Topic: DOM Basics and Objects Basics
+
+🔹 PART 1. DOM ASSIGNMENTS
+DOM Assignment 1. Age and Date of Birth Checker
+
+Problem Statement:
+1.Write a JavaScript program that takes Date of Birth from the user using an input field.
+
+Calculate the user age and display a message in a paragraph.
+
+Conditions:
+
+If age is less than 18, display
+You are not welcomed
+
+If age is 18 or above, display
+You are welcomed
+
+UI Should Contain:
+
+One date input field
+
+One button
+
+One paragraph to show result
+
+
+
+DOM Assignment 2. Password Length Checker
+
+Problem Statement:
+2. Write a JavaScript program that takes a password from the user using an input field.
+
+Check the length of the password and display a message in a paragraph.
+
+Conditions:
+
+If password length is less than 6, display
+Password is too short
+
+If password length is 6 or more, display
+Password is acceptable
+
+UI Should Contain:
+
+One password input field
+
+One button
+
+One paragraph to show result
+
+
+DOM Assignment 3. Grade Calculator
+
+Problem Statement:
+3. Write a JavaScript program that takes obtained marks and total marks from input fields.
+Calculate the percentage and display the grade in a paragraph.
+
+Grade Logic:
+
+Percentage 80 or above → Grade A
+
+Percentage 60 to 79 → Grade B
+
+Percentage 40 to 59 → Grade C
+
+Percentage below 40 → Fail
+
+UI Should Contain:
+
+One input field for obtained marks
+
+One input field for total marks
+
+One button
+
+One paragraph to show result
+
+
+🔹 PART 2. OBJECT ASSIGNMENT (5 Programs)
+1. Student Object
+
+Create an object with properties: name, age, course.
+Print all values in the console.
+
+2. Car Object
+
+Create an object with properties: brand, model, year.
+Update the year and print the updated object.
+
+3. User Object
+
+Create an object with properties: username, email, isLoggedIn.
+Print only the email value.
+
+4. Product Object
+
+Create an object with properties: productName, price, inStock.
+Change the price and print the updated object.
+
+5. Person Object with Method
+
+Create an object with properties: firstName, lastName.
+Add a method that returns the full name and print it.
+
+
+Submit the assignment on the given link:
+https://forms.gle/wQzYKdKQpGe1o9si9
+
+Deadline: 08-01-2026, 12:00 AM (Thursday)
