@@ -1,11 +1,12 @@
 import Header from "@/components/Header";
 import Likes from "@/components/Likes";
 import Navbar from "@/components/Navbar";
+import NewArrivalSection from "@/components/pageSections/NewArrivalSection";
 
 export default function Home() {
   const names = ["Ada Lovelace", "Grace Hopper", "Margaret Hamilton", "ali"];
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
+    <div className="bg-zinc-50 font-sans">
       <Header abc="text-2xl text-blue-500">Hello World</Header>
       <Header
         // title="Welcome to Next.js Projectsssss"
@@ -25,6 +26,8 @@ export default function Home() {
         })}
       </ul>
       <Likes />
+      <NewArrivalSection />
+
       {/* <Header /> */}
     </div>
   );

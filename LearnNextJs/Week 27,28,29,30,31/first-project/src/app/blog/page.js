@@ -1,4 +1,6 @@
 import ArticleCard from "@/components/ArticleCard";
+import NewArrivalSection from "@/components/pageSections/NewArrivalSection";
+import Link from "next/link";
 
 export default function Blog() {
   const articles = [
@@ -31,11 +33,11 @@ export default function Blog() {
   ];
 
   return (
-    <div className="">
+    <div className="bg-white">
       <h1>Blog Page</h1>
-      <a href="/blog/article-first" className="text-blue-500 hover:underline">
+      <Link href="/blog/article-first" className="text-blue-500 hover:underline">
         Read Article First
-      </a>
+      </Link>
       <div className="flex gap-2">
         {/* <ArticleCard
           title="Article First"
@@ -60,6 +62,7 @@ export default function Blog() {
             slug={article.slug}
           />
         ))}
+
       </div>
     </div>
   );
