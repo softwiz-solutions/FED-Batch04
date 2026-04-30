@@ -12,7 +12,7 @@ export default function Home() {
         // title="Welcome to Next.js Projectsssss"
         abc="text-2xl text-green-500"
       >
-        Welcome to Next.js Projects
+        Welcome to Next.js Projects Updated
       </Header>
       <Header abc="text-2xl text-red-500">Demo</Header>
 
