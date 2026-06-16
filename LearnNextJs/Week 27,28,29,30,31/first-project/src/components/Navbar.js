@@ -1,15 +1,29 @@
 import Link from "next/link";
 
 export default function Navbar() {
+  const navLinks = [
+    {
+      name: "Supports",
+      href: "/supports",
+    },
+    {
+      name: "Education",
+      href: "/education",
+    },
+    {
+      name: "Entertainment",
+      href: "/entertainment",
+    },
+  ];
   return (
     <nav className="bg-blue-400 text-white p-4">
       <ul className="flex space-x-4">
         <li>
           <Link href="/" className="hover:text-gray-400">
-            Home
+            News APP
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link href="/about" className="hover:text-gray-400">
             About
           </Link>
@@ -23,7 +37,14 @@ export default function Navbar() {
           <Link href="/blog" className="hover:text-gray-400">
             Blog
           </Link>
-        </li>
+        </li> */}
+        {navLinks.map((link, index) => (
+          <li key={index}>
+            <Link href={link.href} className="hover:text-gray-400">
+              {link.name}
+            </Link>
+          </li>
+        ))}
       </ul>
     </nav>
   );
